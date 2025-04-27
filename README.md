@@ -14,6 +14,9 @@ This script sends you desktop notifications when it's time for prayer.
 ### Limitations
 The method uses KEMENAG (Indonesia) to calculate the prayer times.
 
+### Install
+- sudo ./install.sh
+
 ### Credits
 Special thanks to mnadev for creating the amazing project: https://github.com/mnadev/adhango
 
